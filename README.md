@@ -1,2 +1,2 @@
 # python-practice
-Notes and code I have written as I've been learning Python.
+Notes and code I have written showcasing my knowledge of Python as I've been teaching myself.
